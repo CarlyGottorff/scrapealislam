@@ -1,0 +1,7 @@
+*.lock
+hts-cache/
+hts-log.txt
+*.pdf
+*.tmp
+*.delayed
+
